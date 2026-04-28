@@ -1,0 +1,12 @@
+{
+  "modules": {
+    "crm": {
+      "repo": "https://github.com/Sharkweb-IT-Park/test.git",
+      "version": "1.0.0",
+      "description": "CRM module",
+      "dependencies": [],
+      "backend": true,
+      "frontend": true
+    }
+  }
+}
